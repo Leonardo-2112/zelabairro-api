@@ -18,7 +18,7 @@ API REST do **ZelaBairro**: o cidadão registra problemas urbanos do bairro (bur
 
 - **API publicada (Render):** https://zelabairro-api-08ut.onrender.com
 - **Repositório:** https://github.com/Leonardo-2112/zelabairro-api
-- **Vídeo (YouTube, não listado, até 5 min):** `[COLOCAR O LINK DO VÍDEO]`
+- **Vídeo (YouTube, não listado, até 5 min):** https://youtu.be/oXqm0pAVw64
 - **Teste rápido:** `GET https://zelabairro-api-08ut.onrender.com/health` → `{"status":"UP","banco":"UP"}`
 
 ## Stack
